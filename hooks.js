@@ -1,7 +1,7 @@
 import React from "react";
 
-function keyword() {
+function genman_key() {
   return <div>Hello World</div>;
 }
 
-export default keyword;
+export default genman_key;
